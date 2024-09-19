@@ -3,3 +3,5 @@
                   <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                   <button class="btn btn-outline-success" type="submit">Search</button>
                 </form>
+    <!-- col y demás indican el amplio en compu, tablet y celu -->
+    <article class="col-12 col-md-3 col-lg-4" > 
